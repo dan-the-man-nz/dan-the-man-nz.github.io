@@ -2,6 +2,6 @@ Connectsys Website
 
 Hosted At Github - with thanks
 
-Credit to http://themefisher.com/download/small-apps-html5-app-landing-page for the free template!
+Credit to http://www.free-css.com/free-css-templates/page201/smallapps for the free template!
 
 PSD Credit:- http://www.psdbooster.com
